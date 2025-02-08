@@ -7,4 +7,4 @@ import 'https://cdn.jsdelivr.net/npm/chart.js';
 import 'https://cdn.jsdelivr.net/npm/moment@2.29.1/min/moment.min.js';
 import 'https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js';
 import 'https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js';
-import 'https://cdn.jsdelivr.net/gh/ridwan-arch-v/CitrusDevTemplates@tree/main/repository/excelenr/Script/ScriptSiteexcelenrJs.js'
+import 'https://cdn.jsdelivr.net/gh/ridwan-arch-v/CitrusDevTemplates@main/repository/excelenr/site/Script/ScriptSiteexcelenrJs.js'
