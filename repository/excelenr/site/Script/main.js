@@ -1,10 +1,9 @@
-import 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js'
 import 'https://code.jquery.com/jquery-3.6.0.min.js';
-import 'https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js';
+import 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js';
 import 'https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js';
-import 'https://unpkg.com/swiper@8.4.5/swiper-bundle.min.js'
+import 'https://unpkg.com/swiper@8.4.5/swiper-bundle.min.js';
 import 'https://cdn.jsdelivr.net/npm/chart.js';
 import 'https://cdn.jsdelivr.net/npm/moment@2.29.1/min/moment.min.js';
 import 'https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js';
 import 'https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js';
-import 'https://cdn.jsdelivr.net/gh/ridwan-arch-v/CitrusDevTemplates@main/repository/excelenr/site/Script/ScriptSiteexcelenrJs.js'
+import 'https://cdn.jsdelivr.net/gh/ridwan-arch-v/CitrusDevTemplates@main/repository/excelenr/site/Script/ScriptSiteexcelenrJs.js';
